@@ -11,10 +11,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.tar.gz",
-      "version": "2024.2.3",
-      "sha256": "0afb6e32fe1ceb77ddd07ca7fa7d01a0a5e73a0df42ec58183f9c1a06b84446e",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.3.tar.gz",
-      "build_number": "242.23726.125"
+      "version": "2024.3",
+      "sha256": "e66ee52c365552fe40d035f5b205ab8c28a9a02ed4af5f787b78a0048bcf7f81",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.3.tar.gz",
+      "build_number": "243.21565.238"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -27,10 +27,10 @@
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
       "url-template": "https://download.jetbrains.com/python/dataspell-{version}.tar.gz",
-      "version": "2024.2.2",
-      "sha256": "9b3dd8185f805d8d968f5a515dbe74d3672e0cd1b2cb052cf81382bd63ddb3b8",
-      "url": "https://download.jetbrains.com/python/dataspell-2024.2.2.tar.gz",
-      "build_number": "242.22855.78"
+      "version": "2024.3",
+      "sha256": "d3487f1f62076860ebc5df42efcf7ae928d6e6865ea3c6f1c312a2787ef33ed0",
+      "url": "https://download.jetbrains.com/python/dataspell-2024.3.tar.gz",
+      "build_number": "243.21565.247"
     },
     "gateway": {
       "update-channel": "Gateway RELEASE",
@@ -116,10 +116,10 @@
     "rust-rover": {
       "update-channel": "RustRover RELEASE",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}.tar.gz",
-      "version": "2024.2.5",
-      "sha256": "b3ce4f354d4fdbee8dff5d8120db098502f7393fbebe25891f8bd76e51736b69",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-2024.2.5.tar.gz",
-      "build_number": "242.23726.162"
+      "version": "2024.3",
+      "sha256": "4c20e06fd22559f25d43df9bdb91bb904bd6c09486c605496ff710f26228d96a",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-2024.3.tar.gz",
+      "build_number": "243.21565.245"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -150,10 +150,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.tar.gz",
-      "version": "2024.2.3",
-      "sha256": "be3e6f0d490517c8f6e7c7ac248ab8e8823bf19c8102e7695725f80df6c11d63",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.3-aarch64.tar.gz",
-      "build_number": "242.23726.125"
+      "version": "2024.3",
+      "sha256": "526147203ce3f9ec25e264f33fca042fda59a728237a165983c47c0c06356f6e",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.3-aarch64.tar.gz",
+      "build_number": "243.21565.238"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -166,10 +166,10 @@
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
       "url-template": "https://download.jetbrains.com/python/dataspell-{version}-aarch64.tar.gz",
-      "version": "2024.2.2",
-      "sha256": "e529c27d3c5eeabec02c7ff2e3c0a682d60b962923054cb9dca2e46bf1ec9104",
-      "url": "https://download.jetbrains.com/python/dataspell-2024.2.2-aarch64.tar.gz",
-      "build_number": "242.22855.78"
+      "version": "2024.3",
+      "sha256": "b35c33e82aac239532d4b50fbff0848d72abd16597b36b211103509049319323",
+      "url": "https://download.jetbrains.com/python/dataspell-2024.3-aarch64.tar.gz",
+      "build_number": "243.21565.247"
     },
     "gateway": {
       "update-channel": "Gateway RELEASE",
@@ -255,10 +255,10 @@
     "rust-rover": {
       "update-channel": "RustRover RELEASE",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}-aarch64.tar.gz",
-      "version": "2024.2.5",
-      "sha256": "b208af1d63ccdf6411916c087a08830b947fd6d63d86c2b6ceee7394f5538383",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-2024.2.5-aarch64.tar.gz",
-      "build_number": "242.23726.162"
+      "version": "2024.3",
+      "sha256": "46af654c72421f2f4231b8751d2932a9f2df82a639c41f6b73dabcdca5c38b02",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-2024.3-aarch64.tar.gz",
+      "build_number": "243.21565.245"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -289,10 +289,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.dmg",
-      "version": "2024.2.3",
-      "sha256": "0dfc4d50268e58bb6b3c42c270ea8cca638a8733a5e2e010447cc74d585895e8",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.3.dmg",
-      "build_number": "242.23726.125"
+      "version": "2024.3",
+      "sha256": "e3d82ad3303cb4f373efce378f7f289afd3b35d3315d03ac53dc27302c87aa6f",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.3.dmg",
+      "build_number": "243.21565.238"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -305,10 +305,10 @@
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
       "url-template": "https://download.jetbrains.com/python/dataspell-{version}.dmg",
-      "version": "2024.2.2",
-      "sha256": "2afdedae414e62077580c88c76093ea608b49aa3e4c9c9f1ec8aef7d467a7285",
-      "url": "https://download.jetbrains.com/python/dataspell-2024.2.2.dmg",
-      "build_number": "242.22855.78"
+      "version": "2024.3",
+      "sha256": "ca55c7f57cfb907c44e67ebb7e7be304910e202ff57eb5d494a7b69d194e0bb1",
+      "url": "https://download.jetbrains.com/python/dataspell-2024.3.dmg",
+      "build_number": "243.21565.247"
     },
     "gateway": {
       "update-channel": "Gateway RELEASE",
@@ -394,10 +394,10 @@
     "rust-rover": {
       "update-channel": "RustRover RELEASE",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}.dmg",
-      "version": "2024.2.5",
-      "sha256": "906bc85ada746fd8e783c4fa524458f6cedde7c77499728da8ccae050201a400",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-2024.2.5.dmg",
-      "build_number": "242.23726.162"
+      "version": "2024.3",
+      "sha256": "5862e6de705450c8cd7984799b3353eafc69d0c7b1fd1b4440df6c676f85b6ea",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-2024.3.dmg",
+      "build_number": "243.21565.245"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -428,10 +428,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.dmg",
-      "version": "2024.2.3",
-      "sha256": "998d629381e6f596b8e0cf5289fe8ca7cfd3221fc73b6c8548d768889b14196f",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.3-aarch64.dmg",
-      "build_number": "242.23726.125"
+      "version": "2024.3",
+      "sha256": "2f4ad6ea4ffb0862f85780cd960b46925ea6c9e5f97e9fa290f3007652103825",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.3-aarch64.dmg",
+      "build_number": "243.21565.238"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -444,10 +444,10 @@
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
       "url-template": "https://download.jetbrains.com/python/dataspell-{version}-aarch64.dmg",
-      "version": "2024.2.2",
-      "sha256": "3d153a2813dd5b1527a0e5c429a390cdcb7d921774c369818283a6706bb47375",
-      "url": "https://download.jetbrains.com/python/dataspell-2024.2.2-aarch64.dmg",
-      "build_number": "242.22855.78"
+      "version": "2024.3",
+      "sha256": "2f680c2294959c3d477bc8b34e2e2ecd3e6ead395b74527c5b465b920e5488e4",
+      "url": "https://download.jetbrains.com/python/dataspell-2024.3-aarch64.dmg",
+      "build_number": "243.21565.247"
     },
     "gateway": {
       "update-channel": "Gateway RELEASE",
@@ -533,10 +533,10 @@
     "rust-rover": {
       "update-channel": "RustRover RELEASE",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}-aarch64.dmg",
-      "version": "2024.2.5",
-      "sha256": "f0ccd53e5cd8a0a143db956fbc6d118d3771bc42c62b846e9d396a620bea79d1",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-2024.2.5-aarch64.dmg",
-      "build_number": "242.23726.162"
+      "version": "2024.3",
+      "sha256": "7d6fc36fbd5ebd36de02d48bbf45a85e8bc57e3976a42ba28f7884c0657730fd",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-2024.3-aarch64.dmg",
+      "build_number": "243.21565.245"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
